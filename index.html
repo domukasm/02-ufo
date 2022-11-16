@@ -8,13 +8,13 @@
     </head>
 
     <body style="background-color:blue;">
-        <main style="background-color: yellow; width: 50%; margin-top: 50px; margin-left: 25%;">
-            <div>
-                <h1 style="color: white;">404</h1>
-                <p style="color: white; text-transform: uppercase; font-size: 20px;">Page not found</p>
+        <main style="display: inline-block; width: 50%; margin-top: 250px; margin-left: 25%;">
+            <div style="width: 35%; float: left; margin-top: 150px;">
+                <h1 style="color: white; margin: 0; font-size: 80px;">404</h1>
+                <p style="color: white; text-transform: uppercase; font-size: 30px; margin: 0; margin-top: 20px;">Page not found</p>
                 <a href="#" style="color: white;">Go to home</a>
             </div>
-            <img src="./img/ufo.jpg" alt="UFO lekste">
+            <img src="./img/ufo.jpg" alt="UFO lekste" style="width: 60%; float: right;">
         </main>    
     </body>
 
@@ -47,4 +47,15 @@
     margin-right: 100px;
     margin-bottom: 100px;
     margin-left: 100px;
+
+    Elementu atvaizdavimas:
+    display: block;         visi block elementai krenta vienas po kitu(dauguma elementu)
+    display: inline;        elementas elgiasi kaip zodis tekste
+    display: inline-block;  jeigu elementai telpa i viena eilute - suguls; jei netelpa - sekantis krenta i nauja eilute;
+                             jei jame yra daugiau turinio nei tilptu pas "teva", 
+                             tai jo max plotis yra 100% 
+
+    Priverstinis elementu sustumimas pasirinkta kyptimi:
+    float: left;
+    float: right;
 -->
