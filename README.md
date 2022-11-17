@@ -67,7 +67,7 @@ There is no tests for this project.
 
 ## 🌚 Authors
 
-Domas: [Github](https://github.com/domukasm)
+Domas: [Github](https://github.com/domukasm) [Linkedin](https://www.linkedin.com/in/domas-mak%C5%ABnas-47b5b2251/) [📸Instagram](https://www.instagram.com/spicelus/)
 
 ## ⚠️ License
 
