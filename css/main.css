@@ -1,0 +1,51 @@
+body {
+    background-color: #09d51a;
+}
+
+.main-content {
+    display: inline-block;
+    width: 50%;
+    margin-top: 250px;
+    margin-left: 25%;
+}
+
+.left-column {
+    width: 35%;
+    float: left;
+    margin-top: 150px;
+}
+
+.first-line {
+    color: #fff;
+    margin: 0;
+    font-size: 80px;
+    font-family: fantasy;
+    font-weight: normal;
+}
+
+.second-line {
+    margin: 0;
+    color: white;
+    font-family: fantasy;
+    text-transform: uppercase;
+    font-size: 38px;
+    margin-bottom: 20px;
+}
+
+.btn {
+    display: inline-block;
+    color: #fff;
+    text-decoration: none;
+    font-size: 17px;
+    font-family: Arial;
+    border: 2px solid white;
+    padding: 10px;
+    padding-left: 30px; 
+    padding-right: 30px; 
+    border-radius: 42px;
+}
+
+.logo {
+    width: 60%;
+    float: right;
+}
